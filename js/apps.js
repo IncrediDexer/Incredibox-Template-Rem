@@ -126,21 +126,21 @@ versions.v1 = {
         code: "2,4,8,11,15",
         sound: "bonus-choir",
         aspire: "aspire",
-        loop: 2
+        loop: 2,
     }, {
         name: "The Sailor",
         src: "v1-b2-sailor-hb.mp4",
         code: "10,11,14,15,20",
         sound: "bonus-sailor",
         aspire: "aspire-sailor",
-        loop: 2
+        loop: 2,
     }, {
         name: "Santa",
         src: "v1-b3-santa-hb.mp4",
         code: "1,9,13,14,16",
         sound: "bonus-santa",
         aspire: "aspire-santa",
-        loop: 2
+        loop: 2,
     },
   ],
 };
