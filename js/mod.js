@@ -19,7 +19,7 @@ let ShakeEffectOn=null===localStorage.getItem("ShakeEffectOn")||"true"===localSt
 
 
 // Register your mod here
-var RegisterMod = "Unknow";
+var RegisterMod = "Unknown";
 var RegisterModVersion = "0.0.1";
 var ModDeveloper = "Developer";
 
