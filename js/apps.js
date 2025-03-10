@@ -120,14 +120,27 @@ versions.v1 = {
       uniqsnd: !0,
     },
   ],
-  bonusarray: [
-    {
-      name: "blank",
-      src: "b1-v1-blank-hb",
-      code: "1,2,3,4,5",
-      sound: "aspire-blank",
-      aspire: "aspire-blank",
-      loop: 1, // ← Every bonus have its own loops in this version
+  bonusarray: [{
+        name: "The Choir",
+        src: "v1-b1-choir-hb.mp4",
+        code: "2,4,8,11,15",
+        sound: "bonus-choir",
+        aspire: "aspire",
+        loop: 2
+    }, {
+        name: "The Sailor",
+        src: "v1-b2-sailor-hb.mp4",
+        code: "10,11,14,15,20",
+        sound: "bonus-sailor",
+        aspire: "aspire-sailor",
+        loop: 2
+    }, {
+        name: "Santa",
+        src: "v1-b3-santa-hb.mp4",
+        code: "1,9,13,14,16",
+        sound: "bonus-santa",
+        aspire: "aspire-santa",
+        loop: 2
     },
   ],
 };
