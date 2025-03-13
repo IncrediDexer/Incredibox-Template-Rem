@@ -4,4 +4,4 @@ Rem has modified the code of Incredibox to perform different actions unlike the 
 
 All i have done is make this work on ios devices.
 
-(Remove This File after Creating A Repo With This Template)
+(Remove The README.md File after Creating A Repo With This Template)
