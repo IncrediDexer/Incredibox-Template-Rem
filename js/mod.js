@@ -29,7 +29,7 @@ function onLockedIcon() {
 }
 
 function onV1Bonus1Finished() {
-  MakeConfetti(3, 0.5, 0.5, 100, 100, "custom-cursor", "../asset-v1/icon.png");
+  PlaySFX("talura.mp3");
   Shake(10, 500);
 }
 
