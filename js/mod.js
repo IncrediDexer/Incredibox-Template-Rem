@@ -25,11 +25,14 @@ var ModDeveloper = "Developer";
 
 // Simple function for locked icons!
 function onLockedIcon() {
-  PlaySFX("12_talura_a.mp3");
   boxDialog.open('This Icon is locked', 'LOCKED!');
 }
 
 function onV1Bonus1Finished() {
   MakeConfetti(3, 0.5, 0.5, 100, 100, "custom-cursor", "../asset-v1/icon.png");
   Shake(10, 500);
+}
+
+function offV1Polo0() {
+  PlaySFX("12_talura_a.mp3");
 }
