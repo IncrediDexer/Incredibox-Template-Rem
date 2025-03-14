@@ -28,7 +28,7 @@ function onLockedIcon() {
   boxDialog.open('This Icon is locked', 'LOCKED!');
 }
 
-function onV1Bonus1Finished() {
+function onV1Bonus1Started() {
   PlaySFX("talura.mp3");
   Shake(10, 500);
 }
