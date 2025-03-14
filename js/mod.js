@@ -29,15 +29,15 @@ function onLockedIcon() {
 }
 
 function onV1Bonus1Finished() {
-  Zoom(110, true, false);
-  OnDelayIn(500, function(){
-    Zoom(100, false, true)
-});
   PlaySFX("talura.mp3");
   Shake(10, 500);
 }
 
 function offV1Polo0() {
-  PlaySFX("talura.mp3");
+  Zoom(110, true, false);
+  OnDelayIn(500, function(){
+    Zoom(100, false, true)
+});
+  PlaySFX("Two Faces.mp3");
   Shake(10, 500);
 }
