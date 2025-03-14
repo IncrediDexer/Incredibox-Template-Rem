@@ -30,7 +30,7 @@ function onLockedIcon() {
 
 function onV1Bonus1Finished() {
   PlaySFX("talura.mp3");
-  Shake("10", "500");
+  Shake(10, 500);
 }
 
 function offV1Polo0() {
