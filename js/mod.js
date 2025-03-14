@@ -34,5 +34,5 @@ function onV1Bonus1Finished() {
 }
 
 function offV1Polo0() {
-  PlaySFX("12_talura_a.mp3");
+  PlaySFX("talura.mp3");
 }
