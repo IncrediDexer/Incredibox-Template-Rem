@@ -30,7 +30,7 @@ function onLockedIcon() {
 
 function onV1Bonus1Finished() {
   Zoom(110, true, false);
-  OnDelayIn(500 g function(){
+  OnDelayIn(500, function(){
     Zoom(100, false, true)
 });
   PlaySFX("talura.mp3");
