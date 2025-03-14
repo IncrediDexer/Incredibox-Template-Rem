@@ -29,10 +29,12 @@ function onLockedIcon() {
 }
 
 function onV1Bonus1Finished() {
+  Zoom(110, true, true);
   PlaySFX("talura.mp3");
   Shake(10, 500);
 }
 
 function offV1Polo0() {
   PlaySFX("talura.mp3");
+  Shake(10, 500);
 }
