@@ -25,8 +25,8 @@ var ModDeveloper = "Developer";
 
 // Simple function for locked icons!
 function onLockedIcon() {
-  boxDialog.open('This Icon is locked', 'LOCKED!');
   PlaySFX("12_talura_a.mp3");
+  boxDialog.open('This Icon is locked', 'LOCKED!');
 }
 
 function onV1Bonus1Finished() {
