@@ -19,25 +19,13 @@ let ShakeEffectOn=null===localStorage.getItem("ShakeEffectOn")||"true"===localSt
 
 
 // Register your mod here
-var RegisterMod = "Unknown";
+var RegisterMod = "Unknow";
 var RegisterModVersion = "0.0.1";
 var ModDeveloper = "Developer";
 
 // Simple function for locked icons!
-function onLockedIcon() {
-  boxDialog.open('This Icon is locked', 'LOCKED!');
+function onLockedIcon(){
+  boxDialog.open('This Icon is locked', 'LOCKED!')
 }
 
-function onV1Bonus1Started() {
-  PlaySFX("talura.mp3");
-  Shake(10, 500);
-}
-
-function offV1Polo0() {
-  Zoom(110, true, false);
-  OnDelayIn(500, function(){
-    Zoom(100, false, true)
-});
-  PlaySFX("Two Faces.mp3");
-  Shake(10, 500);
-}
+// Check examples.js for more functions and triggers!
