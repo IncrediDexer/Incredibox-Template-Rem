@@ -28,4 +28,7 @@ function onLockedIcon(){
   boxDialog.open('This Icon is locked', 'LOCKED!')
 }
 
-// Check examples.js for more functions and triggers!
+function onV1Bonus1Finished(){
+  Shake(10, 500)
+  QuickMessage("Bonus Ended")
+}
