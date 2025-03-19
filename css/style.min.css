@@ -3871,7 +3871,7 @@ input[type="text"].invalid {
     transform: translate(0, 0);
   }
 }
-.shake {
+.Shake {
   animation: animateShake 0.6s var(--easeOutBack) 0s;
 }
 @keyframes animateShake {
