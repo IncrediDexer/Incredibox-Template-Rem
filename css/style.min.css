@@ -180,6 +180,7 @@ body {
   font-size: var(--normal-font-size);
   background-color: var(--col-general-bck);
   z-index: -999;
+  overflow: hidden;
 }
 body.black {
   background-color: #000 !important;
