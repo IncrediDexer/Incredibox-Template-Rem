@@ -1,6 +1,6 @@
 This github account was made for incredibox by So Far So Good none of the assets in this repo belong to the user of this account
 
-Thanks to [Rem](https://www.youtube.com/Rin.Incredibox) for modding Build found at [Incredibox Modding Build](https://www.incredirem.com/downloadremsmoddingbuild)
+Thanks to [Rem](https://www.youtube.com/@Rin.Incredibox) for modding Build found at [Incredibox Modding Build](https://www.incredirem.com/downloadremsmoddingbuild)
 
 All i have done is make this work on ios devices.
 
