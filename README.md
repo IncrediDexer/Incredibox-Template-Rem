@@ -1,6 +1,6 @@
 This github account was made for incredibox by So Far So Good none of the assets in this repo belong to the user of this account
 
-Rem has modified the code of Incredibox to perform different actions unlike the original game.
+Thanks to [Rem](https://www.youtube.com/rin.incredibox) for modding Build found at [Incredibox Modding Build](https://Incredirem.com/Incredibox-Modding-Build)
 
 All i have done is make this work on ios devices.
 
