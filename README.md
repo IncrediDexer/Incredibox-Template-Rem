@@ -5,3 +5,6 @@ Rem has modified the code of Incredibox to perform different actions unlike the 
 All i have done is make this work on ios devices.
 
 (Remove The README.md File after Creating A Repo With This Template)
+
+Thanks to [Joalor64](https://github.com/Joalor64GH)
+For modified script.min.js file found at [Incredibox-Latest](https://github.com/Joalor64GH/Incredibox-Latest)
