@@ -5850,7 +5850,7 @@ iframe.credit-video {
 .bt-modcredits {
   opacity: 0;
   transform: scale(0) rotate(10deg);
-  background-image: url("../mod-credits/_credits-icon.png");
+  background-image: url("../mod-credits/credits-icon.png");
   background-repeat: no-repeat;
   width: 110px;
   background-size: cover;
