@@ -5,6 +5,6 @@ Thanks to [Rem](https://www.youtube.com/@Rin.Incredibox) for modding Build found
 Thanks to [Joalor64](https://github.com/Joalor64GH)
 For modified script.min.js file found at [Incredibox-Latest](https://github.com/Joalor64GH/Incredibox-Latest)
 
-This should wotk on ios devices
+This should work on ios devices
 
 (Remove The README.md File after Creating A Repo With This Template)
